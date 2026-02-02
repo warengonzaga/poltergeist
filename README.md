@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="assets/poltergeist-logo.png" alt="Poltergeist Logo" width="200">
-  
-  # Poltergeist 👻 - The ghost that keeps your builds fresh—universal hot reload & file watcher
+# Poltergeist 👻
 
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Poltergeist+%F0%9F%91%BB&subheader=The+ghost+that+keeps+your+builds+fresh&bg=1A1A1A-4A4A4A&color=FFFFFF&headerfont=Roboto&support=true&watermarkpos=bottom-right)
+<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
+
+<div align="center">
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-22%2B-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 22+"></a>
   <a href="https://github.com/steipete/poltergeist"><img src="https://img.shields.io/badge/platforms-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=for-the-badge" alt="Platforms"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="MIT License"></a>
